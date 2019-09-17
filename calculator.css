@@ -1,0 +1,186 @@
+#mainbox{
+	width: 400px;
+	height: 630px;
+	margin-left: 200px;
+	margin-top: 50px;
+	border: 1px solid black;
+}
+#numbox{
+	font-size: 40px;
+	margin-left: 80px;
+	margin-top: 40px;
+	height: 50px;
+	width: 250px;
+	border: 1px solid black;
+}
+#num1{
+	font-size: 40px;
+	border: 1px solid black;
+	width: 70px;
+	height: 70px;
+	margin-left: 25px;
+	margin-top: 30px;
+	float: left;
+}
+#num2{
+	font-size: 40px;
+	border: 1px solid black;
+	width: 70px;
+	height: 70px;
+	margin-left: 25px;
+	margin-top: 30px;
+	float: left;
+}
+#num3{
+	font-size: 40px;
+	border: 1px solid black;
+	width: 70px;
+	height: 70px;
+	margin-left: 25px;
+	margin-top: 30px;
+	float: left;
+}
+#num4{
+	font-size: 40px;
+	border: 1px solid black;
+	width: 70px;
+	height: 70px;
+	margin-left: 25px;
+	margin-top: 30px;
+	float: left;
+}
+#num5{
+	font-size: 40px;
+	border: 1px solid black;
+	width: 70px;
+	height: 70px;
+	margin-left: 25px;
+	margin-top: 30px;
+	float: left;
+}
+#num6{
+	font-size: 40px;
+	border: 1px solid black;
+	width: 70px;
+	height: 70px;
+	margin-left: 25px;
+	margin-top: 30px;
+	float: left;
+}
+#num7{
+	font-size: 40px;
+	border: 1px solid black;
+	width: 70px;
+	height: 70px;
+	margin-left: 25px;
+	margin-top: 30px;
+	float: left;
+}
+#num8{
+	font-size: 40px;
+	border: 1px solid black;
+	width: 70px;
+	height: 70px;
+	margin-left: 25px;
+	margin-top: 30px;
+	float: left;
+}
+#num9{
+	font-size: 40px;
+	border: 1px solid black;
+	width: 70px;
+	height: 70px;
+	margin-left: 25px;
+	margin-top: 30px;
+	float: left;
+}
+#add{
+	font-size: 40px;
+	border: 1px solid black;
+	width: 70px;
+	height: 70px;
+	margin-left: 25px;
+	margin-top: 30px;
+	float: left;
+}
+#minus{
+	font-size: 40px;
+	border: 1px solid black;
+	width: 70px;
+	height: 70px;
+	margin-left: 25px;
+	margin-top: 30px;
+	float: left;
+}
+#multiply{
+	font-size: 40px;
+	border: 1px solid black;
+	width: 70px;
+	height: 70px;
+	margin-left: 25px;
+	margin-top: 30px;
+	float: left;
+}
+#divide{
+	font-size: 40px;
+	border: 1px solid black;
+	width: 70px;
+	height: 70px;
+	margin-left: 25px;
+	margin-top: 30px;
+	float: left;
+}
+#ac{
+	font-size: 40px;
+	border: 1px solid black;
+	width: 70px;
+	height: 70px;
+	margin-left: 120px;
+	margin-top: 30px;
+	float: left;
+}
+#Del{
+	font-size: 40px;
+	border: 1px solid black;
+	width: 70px;
+	height: 70px;
+	margin-left: 25px;
+	margin-top: 30px;
+	float: left;
+}
+#equal{
+	font-size: 40px;
+	border: 1px solid black;
+	width: 70px;
+	height: 70px;
+	margin-left: 25px;
+	margin-top: 30px;
+	float: left;
+}
+#num0{
+	font-size: 40px;
+	border: 1px solid black;
+	width: 70px;
+	height: 70px;
+	margin-left: 25px;
+	margin-top: 30px;
+	float: left;
+}
+#num00{
+	font-size: 40px;
+	border: 1px solid black;
+	width: 70px;
+	height: 70px;
+	margin-left: 25px;
+	margin-top: 30px;
+	float: left;
+}
+#numdot{
+	font-size: 40px;
+	border: 1px solid black;
+	width: 70px;
+	height: 70px;
+	margin-left: 25px;
+	margin-top: 30px;
+	float: left;
+}
